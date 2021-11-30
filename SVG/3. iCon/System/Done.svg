@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3. iCon/System/Done</title>
+    <g id="3.-iCon/System/Done" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="BG" fill="#63C47B" cx="12" cy="12" r="10"></circle>
+        <path d="M16.769,7.818 C17.1486451,7.42915675 17.769336,7.4146819 18.1666947,7.785405 C18.5640533,8.1561281 18.5926101,8.77633066 18.231,9.182 L11.231,16.682 C10.8653896,17.0738407 10.2558763,17.1078006 9.849,16.759 L6.349,13.759 C5.93690798,13.3977024 5.89240074,12.7720261 6.24920055,12.3560337 C6.60600036,11.9400413 7.2311563,11.8887401 7.651,12.241 L10.423,14.617 L16.769,7.817 L16.769,7.818 Z" id="Check" fill="#FFFFFF"></path>
+    </g>
+</svg>
